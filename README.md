@@ -24,7 +24,7 @@
   <a href="mailto:tainguyen58ntt@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-  <a href="mailto:taintse150307@fpt.edu.vn" alt="Email">
+  <a href="mailto:taintse150307@fpt.edu.vn" alt="Email" title="School Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
