@@ -31,7 +31,7 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img src="https://github.com/oHTGo/oHTGo/raw/main/images/java.svg" title="Java" height="25" style="max-width: 100%;">
   <img src="https://www.flaticon.com/free-icons/sql-server"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/cs.png"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/cs.png"/>
