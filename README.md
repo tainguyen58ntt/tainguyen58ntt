@@ -17,9 +17,6 @@
   <a href="https://www.facebook.com/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/tainguyen58ntt" alt="Github">
-   <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
-  </a> 
   <a href="https://www.instagram.com/_58tn/" alt="Instagram">
   <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
   </a> 
@@ -29,6 +26,7 @@
   <a href="mailto:taintse150307@fpt.edu.vn" alt="Email" title="School Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+<p>Phone: <a>0909123073</a></p>
 </p>
 
 ## Skills:
